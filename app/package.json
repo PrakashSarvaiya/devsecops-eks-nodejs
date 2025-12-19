@@ -1,0 +1,12 @@
+{
+  "name": "devsecops-eks-nodejs",
+  "version": "1.0.0",
+  "description": "Final Node.js frontend application for DevSecOps CI/CD on AWS EKS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
